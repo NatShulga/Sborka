@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		"\ndiv {\n    width: 200px;\n    height: 200px;\n    color: red; }\n"
+	],
+	"names": [],
+	"mappings": ";;AACA,AAAA,GAAG,CAAC;EACA,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,GAAG;CAAG"
+}
